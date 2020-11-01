@@ -28,7 +28,7 @@
 	
 	/* Sticky header */
 	$window.scroll(function(){
-    	if ($window.scrollTop() > 200) {
+    	if ($window.scrollTop() > 9000) {
 			$('.navbar').addClass('sticky-header');
 		} else {
 			$('.navbar').removeClass('sticky-header');

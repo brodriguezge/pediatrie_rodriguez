@@ -513,8 +513,10 @@ a:focus{
 	margin-bottom: 30px;
 }
 
+.smaller { font-size:75%; }
+
 .banner-desc p{
-	color: #f4605c;
+	color: #ca4946;
 	line-height: 1.6em;
 	margin-bottom: 1.5em;
 }
@@ -562,7 +564,7 @@ a:focus{
 
 .feature-single h3{
 	color: #fff;
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: 500;
 	text-transform: uppercase;
 	height: 66px;
@@ -653,7 +655,7 @@ a:focus{
 }
 
 .doctor-desc{
-	margin-left: 260px;
+	margin-left: 0px;
 	padding-top: 60px;
 }
 
@@ -668,15 +670,15 @@ a:focus{
 	display: inline-block;
 	background: #f4605c;
 	color: #fff;
-	font-size: 16px;
-	font-weight: 300;
-	padding: 12px 90px 10px 2px;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 10px 10px 10px 10px;
 	letter-spacing: 0.04em;
-	border-radius: 0 4px 4px 0;
+	border-radius: 4px 4px 4px 4px;
 	position: relative;
 }
 
-.doctor-desc p:before{
+.doctor-desc oo:before{
 	content: '';
 	display: block;
 	width: 180px;
@@ -689,7 +691,7 @@ a:focus{
 }
 
 .doctor-about{
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
 .doctor-about p{
@@ -730,6 +732,7 @@ a:focus{
 }
 
 .programm-single p{
+	text-align: left;
 	color: #f4605c;
 	line-height: 1.5em;
 }
