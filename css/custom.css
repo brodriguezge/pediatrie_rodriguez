@@ -704,7 +704,7 @@ a:focus{
 	color: #226174;
 	font-size: 18px;
 	line-height: 1.8em;
-	font-weight: 300;
+	font-weight: 425;
 	margin-bottom: 1.5em;
 }
 
@@ -739,8 +739,9 @@ a:focus{
 
 .programm-single p{
 	text-align: left;
-	color: #f4605c;
+	color: #ca4946;
 	line-height: 1.5em;
+	font-weight: 425;
 }
 
 .testimonial{
@@ -773,8 +774,9 @@ a:focus{
 
 .contact-info-single p{
 	font-size: 16px;
-	color: #f4605c;
+	color: #ca4946;
 	line-height: 1.5em;
+	font-weight: 425;
 }
 
 .contact-form{
@@ -890,7 +892,7 @@ footer{
 
 .siteinfo p{
 	font-size: 14px;
-	color: #f4605c;
+	color: #ca4946;
 	letter-spacing: 0.02em;
 }
 
